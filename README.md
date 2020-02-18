@@ -1,6 +1,5 @@
-# NextVALD Attention Video Classification Model
-### **An Efficient Neural Network for Video Classification Challenge (Not Finished Project )**
-#### No Commercial Using
+# NextVALD Attention Video Classification Model  (Not Finished)
+### **An Efficient Neural Network for Video Classification Challenge (No Commercial Using)**
 #### Project Introduction
 With the prevalence of smart phones and digital cameras in normal life, exponentially increasing images and videos are created, uploaded, watched and shared through internet. In the past few years, _Convolutional Neural Networks_ (CNNs) have been demonstrated as an effective class of models for understanding image content, such as recognition, segmentation, detection and retrieval. The key enabling factors behind these results were mass computation power of GPUs and large-scale datasets such as ImageNet. In a similar vein, the amount and size of video benchmarks has also been growing recently, such as _UCF101_ (UCF), _Kinetics-700_ (Deep Mind) and _Youtube-8M_ (Google AI), which makes video content understanding gradually under an efficient speed of development in many real-world applications. Meanwhile, many techniques related to video representation and video classification still faces a series of challenges.
 
