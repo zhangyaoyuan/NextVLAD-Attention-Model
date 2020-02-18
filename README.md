@@ -24,7 +24,7 @@ https://research.google.com/youtube8m/explore.html
 
 3.	apply NetVLAD Aggregation Network. This part is the same as video feature vectorization, where V(j,k): video-level descriptor is 128*128. 	
 
-## **Mode Architecture** (wait to be added)
+## **Model Architecture** (wait to be added)
 
 #### Feature Concatenation
 wait to be added
