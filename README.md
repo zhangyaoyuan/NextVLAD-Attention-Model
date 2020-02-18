@@ -50,8 +50,11 @@ https://research.google.com/youtube8m/explore.html
 ``curl data.yt8m.org/download.py | partition=2/frame/test mirror=us python``
 
 Other methods by Links:
-http://us.data.yt8m.org/2/frame/train/index.html   
+
+http://us.data.yt8m.org/2/frame/train/index.html  
+
 http://us.data.yt8m.org/2/frame/validate/index.html  
+
 http://us.data.yt8m.org/2/frame/test/index.html 
 
 
