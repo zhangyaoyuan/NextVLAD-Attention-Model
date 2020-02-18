@@ -58,5 +58,5 @@ http://us.data.yt8m.org/2/frame/validate/index.html
 http://us.data.yt8m.org/2/frame/test/index.html 
 
 
-## **Training Step by Step**
+## **Training Model**
 python offline_train.py
